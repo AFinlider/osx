@@ -28,4 +28,4 @@ DOMAIN-SUFFIX,agon.cf
 #MAGIC
 DOMAIN-SUFFIX,freetz.top
 #DOMAIN-KEYWORD,
-#IP-CIDR,,no-resolve
+IP-CIDR,193.123.232.141,no-resolve

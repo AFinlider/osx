@@ -1,6 +1,7 @@
 #NAME Surge
 
 DOMAIN,adguard.com
+DOMAIN,cokemv.co
 #卷毛鼠
 DOMAIN,cf.jmsooo.com
 #TreeDiagram
@@ -30,5 +31,4 @@ DOMAIN-SUFFIX,agon.cf
 #MAGIC
 DOMAIN-SUFFIX,freetz.top
 #DOMAIN-KEYWORD,
-DOMAIN-KEYWORD,cokemv
 IP-CIDR,193.123.232.141/24,no-resolve

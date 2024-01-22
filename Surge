@@ -25,9 +25,10 @@ DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,zox.show
 #Pilipili
 DOMAIN-SUFFIX,pilipiliultra.top
+DOMAIN-SUFFIX,pilipiliultra.com
 #Viper私人
 DOMAIN-SUFFIX,agon.cf
 #MAGIC
 DOMAIN-SUFFIX,freetz.top
-DOMAIN-KEYWORD,pilipiliultra
+#DOMAIN-KEYWORD,pilipiliultra
 IP-CIDR,193.123.232.141/24,no-resolve

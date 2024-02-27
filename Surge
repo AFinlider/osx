@@ -18,7 +18,7 @@ DOMAIN,temby.285286.xyz
 #终点站
 DOMAIN-SUFFIX,emby.wtf
 #Starcat
-DOMAIN-SUFFIX,starcat.eu.org
+#DOMAIN-SUFFIX,starcat.eu.org
 #Polo
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,polodns.xyz

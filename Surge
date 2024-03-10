@@ -31,4 +31,4 @@ DOMAIN-SUFFIX,pilipiliultra.com
 DOMAIN-SUFFIX,freetz.top
 #DOMAIN-KEYWORD,pilipiliultra
 IP-CIDR,193.123.232.141/24,no-resolve
-IP-CIDR,74.50.80.23/24,no-resolve
+#IP-CIDR,74.50.80.23/24,no-resolve

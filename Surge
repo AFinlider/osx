@@ -25,7 +25,11 @@ DOMAIN-SUFFIX,zox.show
 #Pilipili
 DOMAIN-SUFFIX,pilipiliultra.top
 DOMAIN-SUFFIX,pilipiliultra.com
+#💫Misty
+DOMAIN,misty.cx
 #MAGIC
 DOMAIN-SUFFIX,freetz.top
+#APOP
+DOMAIN-KEYWORD,apopcloud 
 #DOMAIN-KEYWORD,pilipiliultra
 IP-CIDR,193.123.232.141/24,no-resolve

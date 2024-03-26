@@ -24,13 +24,10 @@ DOMAIN-SUFFIX,polodns.xyz
 #ZOX
 DOMAIN-SUFFIX,zox.show
 #Pilipili
-DOMAIN-SUFFIX,pilipiliultra.top
-DOMAIN-SUFFIX,pilipiliultra.com
-DOMAIN,stream_pilipili.misakaf.org
+DOMAIN-KEYWORD,pilipiliultra
 DOMAIN,misty.cx
 #MAGIC
 DOMAIN-SUFFIX,freetz.top
 #APOP
-DOMAIN-KEYWORD,apopcloud 
-#DOMAIN-KEYWORD,pilipiliultra
+DOMAIN-KEYWORD,apopcloud
 IP-CIDR,193.123.232.141/24,no-resolve
